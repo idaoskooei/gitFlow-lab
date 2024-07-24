@@ -24,6 +24,11 @@ const poems = [
     poem: "Roses are red \n Violets are blue \n Unexpected error \n On line 32",
     image: "harold.png",
   },
+  {
+    author: "Rumi",
+    poem: "Roses are red \n Violets are blue \n Unexpected error \n On line 32",
+    image: "rumi.jpg",
+  },
 ];
 
 let displayPoems = (array) => {
