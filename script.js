@@ -19,6 +19,11 @@ const poems = [
     poem: "Roses are red \n Violets are blue \n Code can be sweet \n When written by you",
     image: "vscode-1.png",
   },
+  {
+    author: "Fio",
+    poem: "Roses are red \n Violets are blue \n Unexpected error \n On line 32",
+    image: "harold.png",
+  },
 ];
 
 let displayPoems = (array) => {
