@@ -17,7 +17,7 @@ const poems = [
   {
     author: "ida",
     poem: "Roses are red \n Violets are blue \n Code can be sweet \n When written by you",
-    image: "vscode.jpeg",
+    image: "vscode-1.png",
   },
 ];
 
